@@ -1,0 +1,1 @@
+const superWave = document.querySelector('.super-wave', '.super-wawe');
